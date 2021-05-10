@@ -2,7 +2,7 @@
 
 ## SIGNATE Student Cup 2021
 
-[code]()
+[code](https://github.com/t16cs039/signate/tree/master/studentcup2021_spring)
 
 ## ひろしまQuest2020: 画像データを使ったレモンの外観分類
 
